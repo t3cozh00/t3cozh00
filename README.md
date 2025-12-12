@@ -6,17 +6,17 @@
 
 ## 👩‍💻 &nbsp;About Me
 
-- 🎓 &nbsp; I'm a 3rd-year Information Technology student at Oulu University of Applied Sciences in Finland.
+🎓 &nbsp; I'm a 3rd-year Information Technology student at Oulu University of Applied Sciences in Finland.
 
-- ⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have strengthened my skills in communication and working in diverse, international teams.
+⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have strengthened my skills in communication and working in diverse, international teams.
 
-- 💻 &nbsp; I'm currently looking for an internship or junior developer position to grow as a full-stack developer.
+💻 &nbsp; I'm currently looking for an internship or junior developer position to grow as a full-stack developer.
 
-- 🌻 &nbsp; I enjoy exploring new technologies and am passionate about solving real-world problems through code.
+🌻 &nbsp; I enjoy exploring new technologies and am passionate about solving real-world problems through code.
 
-- 🌱 &nbsp; I'm on track for learning more about Python, C#, Artificial Intelligence, Machine Learning.
+🌱 &nbsp; I'm on track for learning more about Python, C#, Artificial Intelligence, Machine Learning.
 
-- 💼 &nbsp; Welcome to check my [**LinkedIn**](https://www.linkedin.com/in/congying-zhao-36a29629a/) and [**Portfolio**](https://zoey-congying-zhao.vercel.app/) for more details about my study and project work.
+💼 &nbsp; Welcome to check my [**LinkedIn**](https://www.linkedin.com/in/congying-zhao-36a29629a/) and [**Portfolio**](https://zoey-congying-zhao.vercel.app/) for more details about my study and project work.
 
 ---
 
@@ -62,6 +62,10 @@
 
 ### PetLove &nbsp; <a href="https://github.com/t3cozh00/petlove"><img alt="GitHub" src="https://img.shields.io/badge/github-repo-blue?logo=github"/></a> &nbsp; <a href="https://youtu.be/gHHSJeUEY40"><img alt="Demo" src="https://img.shields.io/badge/-Demo-orange?logo=movie"/></a> &nbsp;
 > Web-based pet adoption platform where users can register, browse pets, post pets for adoption, and submit adoption applications.
+
+## 📊 GitHub Stats  
+![Congying Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3cozh00&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3cozh00&layout=compact&theme=dark)  
 
 ---
 
