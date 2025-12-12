@@ -1,5 +1,5 @@
 
-# <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi, I am Congying Zhao!
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi, I am Congying Zhao!
 
 ---
 
@@ -63,9 +63,12 @@
 ### PetLove &nbsp; <a href="https://github.com/t3cozh00/petlove"><img alt="GitHub" src="https://img.shields.io/badge/github-repo-blue?logo=github"/></a> &nbsp; <a href="https://youtu.be/gHHSJeUEY40"><img alt="Demo" src="https://img.shields.io/badge/-Demo-orange?logo=movie"/></a> &nbsp;
 > Web-based pet adoption platform where users can register, browse pets, post pets for adoption, and submit adoption applications.
 
+---
+
+
 ## 📊 GitHub Stats  
-![Congying Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3cozh00&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t3cozh00&layout=compact&theme=dark)  
+![Congying Zhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3cozh00&theme=nord&show_icons=true&count_private=true)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t3cozh00&theme=nord_dark)  
 
 ---
 
