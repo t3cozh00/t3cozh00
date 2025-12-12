@@ -7,8 +7,8 @@
 
 🎓 &nbsp; I'm a 3rd-year Information Technology student at Oulu University of Applied Sciences in Finland.
 
-⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have strengthened\
-&nbsp; &nbsp; &nbsp; &nbsp; my skills in communication, documentation, and working in diverse, international teams.
+⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have
+&nbsp; &nbsp; &nbsp; &nbsp; strengthened my skills in communication and working in diverse, international teams.
 
 💻 &nbsp; I'm currently looking for an internship or junior developer position to grow as a full-stack developer.
 
