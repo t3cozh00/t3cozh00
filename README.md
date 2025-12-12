@@ -1,25 +1,25 @@
 
 # <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi, I am Congying Zhao!
-<p><br/></p>
+
+---
 
 
 ## 👩‍💻 &nbsp;About Me
 
-🎓 &nbsp; I'm a 3rd-year Information Technology student at Oulu University of Applied Sciences in Finland.
+- 🎓 &nbsp; I'm a 3rd-year Information Technology student at Oulu University of Applied Sciences in Finland.
 
-⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have
-&nbsp; &nbsp; &nbsp; &nbsp; strengthened my skills in communication and working in diverse, international teams.
+- ⚡️ &nbsp; During my studies, I've worked on several team-based and cross-university projects, which have strengthened my skills in communication and working in diverse, international teams.
 
-💻 &nbsp; I'm currently looking for an internship or junior developer position to grow as a full-stack developer.
+- 💻 &nbsp; I'm currently looking for an internship or junior developer position to grow as a full-stack developer.
 
-🌻 &nbsp; I enjoy exploring new technologies and am passionate about solving real-world problems through code.
+- 🌻 &nbsp; I enjoy exploring new technologies and am passionate about solving real-world problems through code.
 
-🌱 &nbsp; I'm on track for learning more about Python, C#, Artificial Intelligence, Machine Learning.
+- 🌱 &nbsp; I'm on track for learning more about Python, C#, Artificial Intelligence, Machine Learning.
 
-💼 &nbsp; Welcome to check my [**LinkedIn**](https://www.linkedin.com/in/congying-zhao-36a29629a/) and [**Portfolio**](https://zoey-congying-zhao.vercel.app/) for more details about my study and project work.
-<p><br/></p>
+- 💼 &nbsp; Welcome to check my [**LinkedIn**](https://www.linkedin.com/in/congying-zhao-36a29629a/) and [**Portfolio**](https://zoey-congying-zhao.vercel.app/) for more details about my study and project work.
 
 ---
+
 
 ## ⚙️ &nbsp;Tech Stack
 
@@ -47,14 +47,14 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=flat&logo=xcode)&nbsp;
 ![Android](https://img.shields.io/badge/Android-000000?style=flat&logo=android)&nbsp;
-<p><br/></p>
 
 ---
+
 
 ## 🚀 &nbsp; Projects
 
 ### UniChat &nbsp; <a href="https://github.com/t3cozh00/unichat-frontend"><img alt="GitHub" src="https://img.shields.io/badge/github-repo-blue?logo=github"/></a> &nbsp; <a href="https://youtu.be/6jH2R_F63a8"><img alt="Demo" src="https://img.shields.io/badge/-Demo-orange?logo=movie"/></a> &nbsp;
-> UniChat is a cross-university mobile application built as a collaborative project between students at Oulu University of Applied Sciences (OAMK) > and Fontys University of Applied Sciences (Fontys), featuring real-time messaging, group chats and user authentication.
+> UniChat is a cross-university mobile application built as a collaborative project between students at Oulu University of Applied Sciences (OAMK) and Fontys University of Applied Sciences (Fontys), featuring real-time messaging, group chats and user authentication.
 
 ### MovieVerse &nbsp; <a href="https://github.com/t3cozh00/MovieVerse"><img alt="GitHub" src="https://img.shields.io/badge/github-repo-blue?logo=github"/></a> &nbsp; <a href="https://movieverse-zeta.vercel.app/"><img alt="LiveLink" src="https://img.shields.io/badge/-Live%20Link-green?logo=movie"/></a> &nbsp;
 > A full-stack movie platform for discovering, reviewing, and organizing films. It offers a large catalog with trailers, cast and user reviews,
@@ -62,12 +62,11 @@
 
 ### PetLove &nbsp; <a href="https://github.com/t3cozh00/petlove"><img alt="GitHub" src="https://img.shields.io/badge/github-repo-blue?logo=github"/></a> &nbsp; <a href="https://youtu.be/gHHSJeUEY40"><img alt="Demo" src="https://img.shields.io/badge/-Demo-orange?logo=movie"/></a> &nbsp;
 > Web-based pet adoption platform where users can register, browse pets, post pets for adoption, and submit adoption applications.
-<p><br/></p>
 
 ---
+
 
 ## 📫 &nbsp; Let's connect!
 
 <a href="https://www.linkedin.com/in/congying-zhao-36a29629a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Congying%20Zhao-blue"/></a> &nbsp;
 <a href="mailto:zoey.c.zhao@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-zoey.c.zhao@outlook.com-blue"/></a> &nbsp;
-<p><br/></p>
